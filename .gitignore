@@ -104,3 +104,9 @@ modules.xml
 .idea/sonarlint
 
 # End of https://www.gitignore.io/api/phpstorm+all
+
+# Start barryvdh/laravel-ide-helper files
+.phpstorm.meta.php
+_ide_helper.php
+_ide_helper_models.php
+# End barryvdh/laravel-ide-helper files
